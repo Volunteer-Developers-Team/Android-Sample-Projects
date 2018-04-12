@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/main_settings">
+        <CheckBoxPreference
+            android:key="remember_data"
+            android:title="@string/set_1"
+            android:summary="@string/set_1_detail"
+            android:defaultValue="false" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/secondary_settings">
+        <CheckBoxPreference
+            android:key="reading_sound"
+            android:title="@string/set_2"
+            android:summary="@string/set_2_detail"
+            android:defaultValue="false" />
+
+        <CheckBoxPreference
+            android:key="reading_haptic"
+            android:title="@string/set_3"
+            android:summary="@string/set_3_detail"
+            android:defaultValue="false" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

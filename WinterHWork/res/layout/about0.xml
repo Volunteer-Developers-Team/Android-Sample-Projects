@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu"  >
+
+    <EditText
+        android:id="@+id/tt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:ems="12"
+        android:inputType="textMultiLine"
+        android:background="@null"
+        android:text="@string/_firstly_this_is_not_full_game_of_chess_but_there_are_only_knights_the_purpose_of_the_game_is_to_capture_the_other_horse_or_leave_no_space_to_move_for_the_other_horse_once_a_board_position_is_accupied_by_a_horse_it_can_never_be_occupied_again_at_the_and_the_game_one_of_the_horse_can_not_move_anywhere_and_the_other_one_wins_"
+        android:textColor="#8F363F" />
+
+</RelativeLayout>

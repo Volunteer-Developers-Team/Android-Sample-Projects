@@ -1,0 +1,47 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">Shopping Assistant</string>
+    <string name="myLists">Listelerim</string>
+    <string name="markets">Marketler</string>
+    <string name="defining_product">Ürün Tanımlama</string>
+    <string name="nav_manual">Manual Count</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="log_out">Çıkış Yap</string>
+    <string name="msg_start_reading">You can start reading items now. Items will show up over here.</string>
+    <string name="img_profile">Profile</string>
+    <string name="hilton_bomonti_test_123_test_123_test_123" translatable="false">Hilton Bomonti Test 123 Test 123 Test 123</string>
+    <string name="gps_activation_alert_msg">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">NO</string>
+    <string name="addList">Add new list</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">SIGN IN</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="prompt_username">User Name</string>
+    <string name="AuthorizationExpired">Token has expired!</string>
+    <string name="Invalid_Credentials">Check Credentials and Connection!</string>
+    <string name="Expired">Authorization has expired!</string>
+    <string name="Link">Barcode Link</string>
+
+    <string name="json_exception">JSON Object Exception!</string>
+    <string name="unexpected">Unexpected Exception!!!</string>
+    <string name="expire_date">Expire Date :</string>
+    <string name="permissions">You must accept all permissions to use the application!</string>
+    <string name="qr_cancelled">QR Code Reading was cancelled!</string>
+
+
+    <!-- Shopping Assistant strings  -->
+    <string name="set_1">Set 1</string>
+    <string name="set_2">Set 2</string>
+    <string name="set_3">Set 3</string>
+    <string name="set_1_detail">Set 1 detail</string>
+    <string name="set_2_detail">Set 2 detail</string>
+    <string name="set_3_detail">Set 3 detail</string>
+    <string name="main_settings">Genel Ayarlar</string>
+    <string name="secondary_settings">Diğer Ayarlar</string>
+
+
+
+</resources>

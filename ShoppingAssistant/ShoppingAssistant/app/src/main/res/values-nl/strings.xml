@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoppingAssistant</string>
+    <string name="img_profile">Profiel </string>
+    <string name="msg_start_reading">Start chiplezen. Gelezen items worden hier getoond.</string>
+    <string name="nav_clean">Schoon afleveren</string>
+    <string name="nav_manual">Handmatige telling</string>
+    <string name="nav_settings">Instellingen</string>
+    <string name="nav_soiled">Vuil ophalen</string>
+    <string name="gps_activation_alert_msg">Uw GPS schijnt uit te staan, wilt u GPS inschakelen</string>
+    <string name="no">NEE</string>
+    <string name="yes">Ja</string>
+</resources>

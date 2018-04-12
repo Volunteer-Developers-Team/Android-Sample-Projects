@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "369355018149",
+    "firebase_url": "https://rftt-2d977.firebaseio.com",
+    "project_id": "rftt-2d977",
+    "storage_bucket": "rftt-2d977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369355018149:android:f046f0550b6fe673",
+        "android_client_info": {
+          "package_name": "com.ustek.rftt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369355018149-s2gc591fdfaqri3m3vgsicsne0ka3oav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ustek.rftt",
+            "certificate_hash": "06D1F3A114BEF9D73D3A150139EC5B27C56FEEB2"
+          }
+        },
+        {
+          "client_id": "369355018149-0rfd7nmq2u2f8qu9ka1pf3p0ev1nnpnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX85KNZfb7LUiOlprJqaLwaIwt9bLJkVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369355018149-0rfd7nmq2u2f8qu9ka1pf3p0ev1nnpnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

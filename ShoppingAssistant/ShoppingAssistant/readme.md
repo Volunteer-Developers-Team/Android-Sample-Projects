@@ -1,0 +1,1 @@
+You can ignore commits that its messages are t or test.

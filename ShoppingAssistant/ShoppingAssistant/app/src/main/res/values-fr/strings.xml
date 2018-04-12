@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoppingAssistant</string>
+    <string name="gps_activation_alert_msg">Votre GPS semble être désactivé, voulez-vous l\'activer ?</string>
+    <string name="img_profile">Profil</string>
+    <string name="msg_start_reading">Vous pouvez commencer à lire les articles maintenant. Articles apparaîtront ici.</string>
+    <string name="nav_clean">Livraison Propre</string>
+    <string name="nav_manual">Comptage Manuel</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="nav_soiled">Récupérer le Sale</string>
+    <string name="no">NON</string>
+    <string name="yes">Oui</string>
+
+</resources>

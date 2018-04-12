@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <!-- Tag value -->
+    <TextView android:id="@+id/listName"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="Shopping List Name"
+        android:textColor="@color/secondary_text"
+        tools:ignore="HardcodedText"/>
+
+
+    <!-- Tag count -->
+    <TextView android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:gravity="center_vertical|center"
+        android:textSize="18sp"
+        android:text="03.02.2017"
+        android:textColor="@color/secondary_text"
+        tools:ignore="HardcodedText"/>
+
+</LinearLayout>

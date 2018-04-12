@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WinterHWork</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="winter_homework">Winter Homework</string>
+    <string name="enter_row_number">Enter Row Number</string>
+    <string name="enter_column_number">Enter Column Number</string>
+    <string name="save">Save</string>
+    <string name="start">Start</string>
+    <string name="white_knight">White Knight</string>
+    <string name="black_knight">Black Knight</string>
+    <string name="created_by_ramazan_sakin">Created by Ramazan SAKIN</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_surname">Your Surname</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="medium_text">Medium Text</string>
+    <string name="about_game">About Game</string>
+    <string name="_firstly_this_is_not_full_game_of_chess_but_there_are_only_knights_the_purpose_of_the_game_is_to_capture_the_other_horse_or_leave_no_space_to_move_for_the_other_horse_once_a_board_position_is_accupied_by_a_horse_it_can_never_be_occupied_again_at_the_and_the_game_one_of_the_horse_can_not_move_anywhere_and_the_other_one_wins_">"  Firstly, this is not full game of chess, but there are only knights.The purpose of the game is to capture the other horse or leave no space to move for the other horse.Once a board position is accupied by a horse, it can never be occupied again.At the and the game, one of the horse can not move anywhere and the other one wins!!!"</string>
+    <string name="save_and_start">Save and Start</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="ramazan_sakin">Ramazan SAKIN</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoppingAssistant</string>
+    <string name="img_profile">Profil</string>
+    <string name="msg_start_reading">Şimdi ürünleri okumaya başlayabilirsiniz. Ürünler burada listelenecektir.</string>
+    <string name="nav_clean">Temiz Teslim</string>
+    <string name="nav_manual">Manüel Sayım</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="nav_soiled">Kirli Teslim</string>
+    <string name="gps_activation_alert_msg">GPS devredışı. Etkinleştirmek ister misiniz?</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+</resources>
